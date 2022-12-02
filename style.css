@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+
+/*fonfo de la pagina*/
+
+.fondopag {
+    background-image: url(/img/fondoestrellitas.webp);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+/*logo Footer*/
+
+.logoFooter {
+    width: 30px;
+}
+
+/*titulos de paginas*/
+
+.tituloP {
+    font-family: 'Anton', sans-serif;
+    font-size: calc(1.375rem + 7.5vw);
+    text-align: center;
+    color: rgb(168, 116, 242);
+}
+
+/*estilo del nav*/
+
+.navbar-brand {
+    color: rgba(249, 206, 231, 1);
+}
+
+.nav-link {
+    color: blueviolet;
+}
+
+.active {
+    color: blueviolet !important;
+}
+
+/* .active:hover {
+    color: red !important;
+}
+
+
+/*TANJIRO titulo de index*/
+
+.mx-auto .fw-light {
+    font-family: 'Anton', sans-serif;
+    color: rgb(168, 116, 242);
+    font-size: calc(1.375rem + 7.5vw);
+    text-shadow: 8px 5px 9px black;
+}
+
+
+/* pagina registro*/
+
+.suscribete {
+    padding-top: 200px;
+}
+
+/*PAGINA PELICULAS*/
+
+.container {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    width: 100%;
+    padding-right: calc(var(--bs-gutter-x) * .5);
+    padding-left: calc(var(--bs-gutter-x) * .5);
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.featurette {
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    padding-right: calc(var(--bs-gutter-x) * .5);
+    padding-left: calc(var(--bs-gutter-x) * .5);
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.peli {
+    padding-bottom: 50px;
+}
+
+
+/*PAGINA INICIO*/
+
+.carousel {
+    margin-bottom: 4rem;
+    position: relative;
+}
+
+.carousel-item {
+    width: 100%;
+    height: 40vh;
+}
+
+.carrusel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.b-example-divider {
+    height: 3rem;
+    background-color: rgba(0, 0, 0, .1);
+    border: solid rgba(0, 0, 0, .15);
+    border-width: 1px 0;
+    box-shadow: inset 0 0.5em 1.5em rgb(0 0 0 / 10%), inset 0 0.125em 0.5em rgb(0 0 0 / 15%);
+}
+
+.nombrechicas {
+    color: black;
+    background-color: yellow;
+    border-radius: 30%;
+    text-align: center;
+} 
+
+.col-lg-4 .iframe {
+    border-radius: 50%;
+}
+
+.finalinicio {
+    padding-bottom: 100px;
+}
+
+.historiaEscritoras h2 {
+    color: blueviolet;
+}
+
+.historiaEscritoras {
+    padding: 3%;
+}
+
+.animate__animated {
+    padding-bottom: 3%;
+}
+
+/*PAGINA KDRAMAS*/
+
+.kdramas {
+    padding-bottom: 200px;
+}
+
+.card-title {
+    text-align: center;
+}
+
+/*PAGINA ANIMES*/
+
+.grupo2  {
+    padding-bottom: 200px;
+}
+
+.botonAnime {
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+/*PAGINA CONTACTA*/
+
+.contacta {
+    text-align: center;
+}
+
+.mb-3 {
+    padding-left: 3%;
+
+}
+
+.enviar {
+    margin-left: 3%;
+}
