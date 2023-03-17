@@ -1,4 +1,4 @@
-#Contexto del proyecto
+# Contexto del proyecto
 La empresa Tanjiro, dedicada a la animación, ha visto que vuestro trabajo es excelente y ha hecho la demanda de vuestros servicios para construir lo antes posible su web.
 
 ​
@@ -7,7 +7,7 @@ Para ello, nuestro cliente técnico nos ha realizado la petición de hacerlo con
 
 ​
 
-#**Requisitos técnicos **⚙️
+# **Requisitos técnicos **⚙️
 
 Se DEBE usar bootstrap
 Se DEBE hacer uso de kanban
@@ -20,7 +20,7 @@ Los botones DEBEN ser clickables.
 Los links del nav DEBEN ser clickables
 ​
 
-#Extras
+# Extras
 
 Se DEBE desplegar el proyecto en Netlify u otro servidor.
 Se PUEDEN hacer más pantallas de las que se especifica en los requisitos.
